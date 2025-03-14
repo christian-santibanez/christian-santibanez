@@ -1,5 +1,5 @@
 
 
-Estudiante de Ingeniería en Informática en el área Tecnologías de la Información y Ciberseguridad.
+Estudiante de Ingeniería en Informática en el área Tecnologías de Información y Ciberseguridad.
 
 Analista Programador.

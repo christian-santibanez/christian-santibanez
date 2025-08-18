@@ -35,7 +35,7 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,bash,powershell,linux,docker,postgres,git,github,vscode,html,css&perline=8" />
   </a>
@@ -49,11 +49,11 @@
 
 ## 📊 Estadísticas GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=christian-santibanez&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-santibanez&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 

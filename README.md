@@ -1,8 +1,12 @@
 
 ![Christian Santibáñez - Cybersecurity Specialist](Banner%20de%20Github.png)
 
-**🛡️ SOC Analyst | Blue Team Specialist | Cybersecurity Student | Splunk Expert | Python Developer**  
-**Especializado en Detección de Amenazas, SIEM y Machine Learning aplicado a Ciberseguridad**
+<p align="center">
+  <strong>🛡️ SOC Analyst | Blue Team Specialist | Cybersecurity Student | Splunk Expert | Python Developer</strong>
+</p>
+<p align="center">
+  <strong>Especializado en Detección de Amenazas, SIEM y Machine Learning aplicado a Ciberseguridad</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-santibáñez/" target="_blank">

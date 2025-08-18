@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/christian-santibáñez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://christian-santibanez.netlify.app" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:christiansanti.martinez@gmail.com" target="_blank">

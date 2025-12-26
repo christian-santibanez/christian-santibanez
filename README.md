@@ -22,8 +22,8 @@
 
 ## ⭐ Sobre mí
 
-- � Ingeniero en Informática recién egresado, con foco en **desarrollo web y ciberseguridad**.
-- �️ Me especializo en **Desarrollo Seguro (Security by Design)**: escribir código pensando desde el inicio en seguridad, performance y mantenibilidad.
+- 💻 Ingeniero en Informática recién egresado, con foco en **desarrollo web y ciberseguridad**.
+- 🛡️ Me especializo en **Desarrollo Seguro (Security by Design)**: escribir código pensando desde el inicio en seguridad, performance y mantenibilidad.
 - 🌐 Experiencia como **desarrollador freelance** construyendo aplicaciones web para clientes usando **React**, **Django** y **Python**.
 - 🔍 Entusiasta del **Blue Team**, la detección de amenazas y el hardening de aplicaciones.
 - 🎯 Actualmente **busco mi práctica profesional** como *Software Engineer / Full Stack Developer con foco en seguridad*.
@@ -31,7 +31,7 @@
 ## 🚀 Actualmente estoy
 
 - 🎓 Finalizando mi proceso de titulación en Ingeniería en Informática.
-- � Trabajando en proyectos web freelance aplicando buenas prácticas de seguridad.
+- 💼 Trabajando en proyectos web freelance aplicando buenas prácticas de seguridad.
 - 🛡️ Diseñando y levantando un **Home Lab SOC** para entender mejor la operación del Blue Team.
 - 📚 Profundizando en **Threat Intelligence** y análisis de ataques reales.
 - 🐍 Mejorando mis skills en **Python**, **Django** y automatización de tareas relacionadas con seguridad.
@@ -55,7 +55,7 @@
 - 🛡️ **Buenas prácticas:** OWASP Top 10, validación de entradas, manejo seguro de sesiones y credenciales.
 - 🛠️ **Sistemas y automatización:** Linux, Bash, PowerShell, Docker.
 - 🔍 **Monitoreo y análisis:** Splunk, Elastic Stack.
-- � **Frameworks y modelos:** MITRE ATT&CK, Sigma Rules.
+- 📚 **Frameworks y modelos:** MITRE ATT&CK, Sigma Rules.
 
 ## 🚀 Featured Projects
 
@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-santibanez&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
-## � Certificaciones
+## 🎓 Certificaciones
 
 - 🥇 **CCNA** - Cisco Networking Academy
 - 🛡️ **Introducción a la Ciberseguridad** - Cisco

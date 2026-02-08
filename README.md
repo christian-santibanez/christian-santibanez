@@ -1,44 +1,51 @@
-Christian Santibáñez
-Ingeniero de Software | Desarrollo Web & Ciberseguridad Aplicada
+<div align="center">
 
-Desarrollo de software con enfoque en Seguridad por Diseño
+# Christian Santibáñez
+**Ingeniero de Software | Arquitectura de Sistemas y Seguridad Aplicada**
 
-👤 Sobre mí
-Ingeniero en Informática recién egresado, con enfoque en desarrollo web seguro y ciberseguridad aplicada .
-Interesado en la construcción de aplicaciones mantenibles, seguras y alineadas a buenas prácticas de ingeniería .
-Experiencia en proyectos full stack utilizando React, Django y Python.
-Interés en ciberseguridad defensiva ( Blue Team ) y seguridad de aplicaciones web.
-🧠 Áreas de interés
-Desarrollo web full stack
-Seguridad de aplicaciones web
-Seguridad por diseño
-Automatización y fundamentos de DevSecOps
-Ciberseguridad defensiva (Equipo Azul)
-🛠️Tecnologías principales
-Lenguajes y frameworks
+---
 
-Python, Django
-JavaScript, React
-HTML, CSS
-Bases de datos
+### 👤 Sobre mí
+Ingeniero en Informática (Egresado 2025). Mi enfoque profesional está dirigido a la construcción de aplicaciones **mantenibles, escalables y seguras por diseño**. Me apasiona la convergencia entre el desarrollo de software de alta disponibilidad y la ciberseguridad defensiva.
 
-PostgreSQL, SQLite
-Sistemas y seguridad
+Tengo experiencia en proyectos reales utilizando el stack **React, Django y Python**, siempre priorizando las buenas prácticas de ingeniería y la continuidad operativa. Aporto una visión madura y analítica para la resolución de desafíos técnicos complejos.
 
-Los 10 mejores de OWASP
-Linux
-Git y GitHub
-Docker (nivel inicial)
-🚀 Proyectos destacados
-SushiDelux
-Plataforma web desarrollada como proyecto de título.
-Backend en Django y frontend en React, aplicando validación de entradas y control de accesos.
+---
 
-🎓 Formación y certificaciones
-Ingeniería en Informática – INACAP
-CCNA – Academia de redes de Cisco
-Introducción a la Ciberseguridad – Cisco
-📫 Contacto
-LinkedIn: https://www.linkedin.com/in/christian-santibáñez
-GitHub: https://github.com/christian-santibanez
-Construyendo aplicaciones seguras desde el diseño
+### 🧠 Áreas de Proyección Profesional
+**Ciberseguridad:** Enfoque en DevSecOps y Gestión de Riesgo TI.
+**Data & Analytics:** Arquitectura de Datos y automatización.
+**Desarrollo:** Ingeniería de Software y Confiabilidad de Sistemas (SRE).
+**Gestión TI:** Estrategia, Gobernanza y mejora continua de procesos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+**Lenguajes y Frameworks:** Python (Django), JavaScript (React), HTML5, CSS3.
+**Bases de Datos:** PostgreSQL, SQLite.
+**Sistemas y Seguridad:** Estándares OWASP, Administración de sistemas Linux, Seguridad en el ciclo de vida del software.
+**Infraestructura:** Git, GitHub, Docker (nivel inicial).
+
+---
+
+### 🚀 Proyectos Destacados
+
+**SushiDelux (Proyecto de Título)**
+Plataforma Full Stack desarrollada con Django y React. Implementación centrada en la validación de datos, control de accesos y estabilidad del sistema.
+
+---
+
+### 🎓 Formación y Certificaciones
+**Ingeniería en Informática** – INACAP
+**CCNA** – Cisco Networking Academy
+**Introduction to Cybersecurity** – Cisco
+
+---
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/christian-santibáñez) | [GitHub](https://github.com/christian-santibanez)
+
+**"Construyendo aplicaciones estables y seguras desde el diseño"**
+
+</div>
+

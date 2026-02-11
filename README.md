@@ -14,7 +14,6 @@ Ingeniero en Informática enfocado en el diseño de infraestructuras digitales b
 ### 🎯 Áreas de Proyección Profesional
 
 **Ciberseguridad & DevSecOps**
-*(Prioridad Central)*
 Implementación de controles defensivos (Blue Team), estándares OWASP y seguridad en el ciclo de vida del software (SDLC).
 
 **Infraestructura & Cloud**

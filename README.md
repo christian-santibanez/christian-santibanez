@@ -1,13 +1,13 @@
 <div align="center">
 
 # 🛡️ Christian Santibáñez Martínez
-### Ingeniero en Informática | Security-Focused Software Engineer
+### Ingeniero en Informática | Arquitectura de Software & Security by Design
 
 ---
 
 **"La tecnología solo es efectiva si es intrínsecamente segura y resiliente"**
 
-Ingeniero en Informática enfocado en el diseño de infraestructuras digitales bajo el paradigma de **Security by Design**. Mi trabajo se centra en construir sistemas donde la protección de activos y la continuidad operativa son el núcleo del desarrollo.
+Ingeniero en Informática de INACAP, enfocado en el diseño de infraestructuras digitales bajo el paradigma de **Security by Design**. Mi trabajo se centra en construir sistemas donde la protección de activos y la continuidad operativa son el núcleo del desarrollo.
 
 ---
 

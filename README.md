@@ -43,7 +43,7 @@ Gestión de calidad de procesos y aseguramiento de la integridad de la informaci
 
 ### 🚀 Proyectos Destacados
 
-**[SushiDelux]**
+**SushiDelux**
 Plataforma Full Stack (Django + React) diseñada con un enfoque en validación estricta de datos, 
 control de accesos robusto y estabilidad operativa.
 

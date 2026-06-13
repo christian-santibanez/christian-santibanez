@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ Christian Santibáñez Martínez
-### Ingeniero en Informática | 
+### Ingeniero en Informática 
 
 ---
 
@@ -59,7 +59,7 @@ control de accesos robusto y estabilidad operativa.
 
 ### 📫 Conéctate conmigo
 
-[LinkedIn](https://www.linkedin.com/in/tu-usuario) | [Email](mailto:tu-correo@ejemplo.com)
+[LinkedIn](https://www.linkedin.com/in/christian-santibáñez) | [Email](mailto:christiansanti.martinez@gmail.com)
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ Christian Santibáñez Martínez
-### Ingeniero en Informática | Arquitectura de Software & Security by Design
+### Ingeniero en Informática | 
 
 ---
 

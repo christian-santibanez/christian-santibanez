@@ -9,8 +9,8 @@ Integro seguridad en el ciclo de desarrollo y la valido con pruebas técnicas re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--csantibanezmartinez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csantibanezmartinez)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/christian-santibanez)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-s4n3t-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s4n4t3)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-s4n3t-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c49a3-4c2b-71fc-8b62-a493b6ce87a5)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-s4n4t3-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s4n4t3)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-s4n4t3-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c49a3-4c2b-71fc-8b62-a493b6ce87a5)
 [![Visitors](https://komarev.com/ghpvc/?username=christian-santibanez&color=00b4d8&style=flat-square&label=visitors)](https://github.com/christian-santibanez)
 
 </div>

@@ -7,7 +7,7 @@
 Ingeniero en Informática con foco en DevSecOps y Application Security.  
 Integro seguridad en el ciclo de desarrollo y la valido con pruebas técnicas reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--santibáñez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csantibanezmartinez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c--santibanezmartinez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csantibanezmartinez)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/christian-santibanez)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-s4n3t-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s4n4t3)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-s4n3t-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c49a3-4c2b-71fc-8b62-a493b6ce87a5)

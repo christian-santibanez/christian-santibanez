@@ -7,7 +7,7 @@
 Ingeniero en Informática con foco en DevSecOps y Application Security.  
 Integro seguridad en el ciclo de desarrollo y la valido con pruebas técnicas reales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--csantibanezmartinez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csantibanezmartinez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-csantibanezmartinez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csantibanezmartinez)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/christian-santibanez)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-s4n4t3-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s4n4t3)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-s4n4t3-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c49a3-4c2b-71fc-8b62-a493b6ce87a5)
@@ -21,7 +21,7 @@ Integro seguridad en el ciclo de desarrollo y la valido con pruebas técnicas re
 
 Soy Ingeniero en Informática de INACAP Chile, con foco en **DevSecOps** y **Application Security**. Mi diferencial es entender el ciclo completo: diseño, desarrollo, despliegue y validación de seguridad.
 
-Egresado de la **Microcredencial Universitaria en Hacking Ético** de la Universidad de Cantabria (España), complementada con formación específica en desarrollo seguro: OWASP Top 10, ciclo de vida seguro del software y fundamentos de seguridad en cloud (Linux Foundation, AWS). Actualmente profundizando en seguridad ofensiva aplicada a APIs.
+Formación específica en desarrollo seguro: OWASP Top 10, ciclo de vida seguro del software, infraestructura como código (OpenTofu) y fundamentos de seguridad en cloud (Linux Foundation, AWS). Complemento esta base con la **Microcredencial Universitaria en Hacking Ético** de la Universidad de Cantabria (España), que aplico para diseñar mejores controles defensivos.
 
 ---
 
@@ -54,11 +54,10 @@ Plataforma de pedidos en producción real con integración de pagos chilenos.
 ## Stack
 
 ### Seguridad
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit_SAST-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Desarrollo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -81,6 +80,9 @@ Plataforma de pedidos en producción real con integración de pagos chilenos.
 |---|---|---|
 | ✅ | LFD121: Developing Secure Software | The Linux Foundation |
 | ✅ | SKF100: Understanding the OWASP® Top 10 Security Threats | The Linux Foundation |
+| ✅ | LFEL1010: XSS Exploits and Defenses | The Linux Foundation |
+| ✅ | LFC108: Cybersecurity Essentials | The Linux Foundation |
+| ✅ | LFEL1009: Getting Started with OpenTofu | The Linux Foundation |
 | ✅ | AWS Academy Graduate — Cloud Foundations | AWS Training and Certification |
 
 ---
